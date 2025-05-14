@@ -40,6 +40,8 @@ Analiza_preferencji_graczy/input/games.json
 
 Make sure the dataset is present in the specified path before running the notebook.
 
+To download the dataset, go to this page: https://www.kaggle.com/datasets/fronkongames/steam-games-dataset
+
 ## Example Usage
 
 To run the analysis:
