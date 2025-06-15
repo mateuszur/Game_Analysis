@@ -14,6 +14,7 @@ The analysis includes:
 - Cleaning and transforming the data for analysis
 - Exploring the structure and key statistics of the data
 - Visualizing trends and drawing insights
+- Predicting number of released games in upcoming 3 years
 
 ## Required Libraries
 
@@ -25,12 +26,14 @@ The following Python libraries are required to run the notebook:
 - `os`
 - `json`
 - `collections` (specifically `Counter`)
+- `scikit-learn`
+- `plotly`
 
 ## Installation
 
 To install the required libraries, run:
 
-pip install pandas matplotlib wordcloud numpy
+pip install pandas matplotlib wordcloud numpy scikit-learn
 
 ## Dataset
 
